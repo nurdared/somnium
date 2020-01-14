@@ -8,6 +8,7 @@ This project was given task by Somnium.
 3.  See Added Books
 4.  See Total Amount to be Paid
 5.  Delete Book from Shopping Cart
+6.  Comfortable Scrolling
 
 ## Notes
 Data used in this project is sample data from the internet. I have hosted JSON file [Here!](https://api.myjson.com/bins/95s16)
