@@ -4,6 +4,7 @@ This project was given task by Somnium.
 ## Functionalities
 1.  Searching Books
 2.  Adding to the Shopping Cart
+3.  Check Number of Added Books to the Cart
 3.  See Added Books
 4.  See Total Amount to be Paid
 5.  Delete Book from Shopping Cart
